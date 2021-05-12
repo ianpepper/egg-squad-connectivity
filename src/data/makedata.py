@@ -41,4 +41,4 @@ def internetdata():
 
     return(df_cira,df_mlab,df_ookla)
 
-
+#TODO figure out how to process shape files into a pandas dataframe
